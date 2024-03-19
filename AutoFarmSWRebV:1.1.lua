@@ -16,7 +16,7 @@ SettingsSW = {
     TimeWaitAfterQuest = 1,--[[The Waiting Seconds after doing a quest (reccomended 1)]]--
     RejoinAfterRebEarth = false, --[[Rejoins Earth after completing the reb inside Earth]]--
 
-    AppleSWBoostMode = false, --[[true: AppleSW Quest Jump, !Only Earth, joins bills planet at 100M, Enhanced Default Bills; false: default]]--
+    AppleSWBoostMode = false, --[[true: AppleSW Quest Jump, !Only Earth, joins bills planet at 120M, Enhanced Default Bills; false: default]]--
 
     CustomBils = false, --[[false= default bils; true= custom stats bills entry | !CustomBills Will Be Used Even With AppleSWBoostMode = true]]--
     --[[Dont Do Like This: Whis = 800000000 (800M), GokuLB = 700000000 (700M)]]--
